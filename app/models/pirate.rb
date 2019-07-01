@@ -10,7 +10,7 @@ class Pirate
     @@ships << self
   end
 
-  def self.all 
+  def self.all
     @@ships
   end
 end
